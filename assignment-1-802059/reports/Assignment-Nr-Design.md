@@ -1,4 +1,4 @@
-# This your assignment design report
+# Part 1 - Design
 
 1.	Design and explain interactions between main components in your architecture of mysimbdp (1 point)
 
