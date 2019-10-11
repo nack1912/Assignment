@@ -9,11 +9,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="$PROJECT_DIR$" />
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1RxmPaj16ygaIXHDUSvEMbkFtCn" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,6 +42,12 @@
       <option name="presentableId" value="Default" />
       <updated>1570617097655</updated>
       <workItem from="1570617108413" duration="345000" />
+      <workItem from="1570617676666" duration="484000" />
+      <workItem from="1570619305650" duration="196000" />
+      <workItem from="1570622803154" duration="128000" />
+      <workItem from="1570623955071" duration="7000" />
+      <workItem from="1570624991366" duration="518000" />
+      <workItem from="1570691913363" duration="602000" />
     </task>
     <servers />
   </component>
@@ -49,7 +59,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
